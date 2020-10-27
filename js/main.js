@@ -78,92 +78,92 @@ $(function() {
       name: '自耕地',
       link: 'https://jiebian623.ml/',
       box_shadow: '#ed6f64',
-      icon: 'img/blog.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/blog.ico',
     }, {
       name: '影院',
       link: 'https://v.jiebian.ml',
       box_shadow: '#13200d',
-      icon: 'img/yingyuan.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/yingyuan.ico',
     }, {
       name: 'GitHub',
       link: 'https://github.com/',
       box_shadow: '#13200d',
-      icon: 'img/github-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/github-xs.png',
     }, {
       name: '今日热榜',
       link: 'https://tophub.today/',
       box_shadow: '#F2584A',
-      icon: 'img/headline.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/headline.png',
     }, {
       name: 'Emm',
       link: 'https://pan.jiebian.workers.dev/',
       box_shadow: '#085dfe',
-      icon: 'img/pan.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/pan.ico',
     }, {
       name: '福利吧',
       link: 'https://fuliba2020.net/',
       box_shadow: '#d9978e',
-      icon: 'img/fuliba.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/fuliba.ico',
     }, {
       name: '大鸟博客',
       link: 'https://www.daniao.org/',
       box_shadow: '#ffbe00',
-      icon: 'img/daniao.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/daniao.ico',
     }, {
       name: '吾爱破解',
       link: 'https://www.52pojie.cn/',
       box_shadow: '#fc4b4e',
-      icon: 'img/52pojie.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/52pojie.ico',
     }, {
       name: '如有乐享',
       link: 'https://51.ruyo.net/',
       box_shadow: '#000000',
-      icon: 'img/rylx.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/rylx.ico',
     }, {
       name: '芊芊精典',
       link: 'https://myqqjd.com/',
       box_shadow: '#ff2e14',
-      icon: 'img/qqjd.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/qqjd.png',
     }, {
       name: '懒得勤快',
       link: 'https://masuit.com/',
       box_shadow: '#F2584A',
-      icon: 'img/masuit.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/masuit.ico',
     }, {
       name: '谷歌翻译',
       link: 'https://translate.google.cn/',
       box_shadow: '#1946e0',
-      icon: 'img/google.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/google.ico',
     }, {
       name: '调色板',
       link: 'https://encycolorpedia.cn/',
       box_shadow: '#3279ea',
-      icon: 'img/tiaose.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/tiaose.ico',
     }, {
       name: 'IP查询',
       link: 'http://ip.tool.chinaz.com/',
       box_shadow: '#62677b',
-      icon: 'img/ip.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/ip.ico',
     }, {
       name: '反向代理',
       link: 'https://dl.jiebian.workers.dev/',
       box_shadow: '#7C5DC7',
-      icon: 'img/tubiao.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/tubiao.png',
     }, {
       name: 'GitHub下载',
       link: 'https://github.jiebian.workers.dev/',
       box_shadow: '#7C5DC7',
-      icon: 'img/tubiao.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/tubiao.png',
     }, {
       name: '电信宽带助手',
       link: 'https://10000.gd.cn/',
       box_shadow: '#000aae',
-      icon: 'img/gddx.ico',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/gddx.ico',
     }, {
       name: '微信网页版',
       link: 'https://wx.qq.com/',
       box_shadow: '#11B063',
-      icon: 'img/wechat-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/wechat-xs.png',
     }]
   }
   for (var i = 0; i < bookmark.data.length; i++) {
@@ -182,140 +182,140 @@ $(function() {
   var search = {
     data: [{
       name: 'baidu',
-      icon: 'img/baidu-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/baidu-xs.png',
       searchlink: 'https://www.baidu.com/s',
       searchname: 'wd',
       color: '#3245df',
       placeholder: '百度一下...'
     }, {
       name: 'google',
-      icon: 'img/google-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/google-xs.png',
       searchlink: 'https://www.google.com/search',
       searchname: 'q',
       color: '#4285f4',
       placeholder: '咕噜咕噜...'
     }, {
       name: 'bing',
-      icon: 'img/bing-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/bing-xs.png',
       searchlink: 'https://cn.bing.com/search',
       searchname: 'q',
       color: '#00868B',
       placeholder: 'Bing搜索...'
     }, {
       name: 'yahoo',
-      icon: 'img/yahoo-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/yahoo-xs.png',
       searchlink: 'https://search.yahoo.com/search',
       searchname: 'p',
       color: '#5f01d1',
       placeholder: 'Yahoo~'
     }, {
       name: 'magi',
-      icon: 'img/magi-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/magi-xs.png',
       searchlink: 'https://magi.com/search',
       searchname: 'q',
       color: 'black',
       placeholder: 'Mag[i]...'
     }, {
       name: 'miji',
-      icon: 'img/miji-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/miji-xs.png',
       searchlink: 'https://mijisou.com/',
       searchname: 'q',
       color: '#575757',
       placeholder: '不追踪你的搜索引擎...'
     }, {
       name: 'sougou',
-      icon: 'img/sougou-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/sougou-xs.png',
       searchlink: 'https://www.sogou.com/web',
       searchname: 'query',
       color: '#f94c18',
       placeholder: '搜狗搜索...'
     }, {
       name: 'duckduckgo',
-      icon: 'img/duckduckgo-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/duckduckgo-xs.png',
       searchlink: 'https://duckduckgo.com',
       searchname: 'q',
       color: '#de5833',
       placeholder: '嘎嘎嘎...'
     }, {
       name: 'doge',
-      icon: 'img/doge-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/doge-xs.png',
       searchlink: 'https://www.dogedoge.com/results',
       searchname: 'q',
       color: '#ffca74',
       placeholder: '手动狗头.jpg'
     }, {
       name: 'wechat',
-      icon: 'img/wechat-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/wechat-xs.png',
       searchlink: 'https://weixin.sogou.com/weixin',
       searchname: 'query',
       color: '#2ca43a',
       placeholder: '搜微信文章...'
     }, {
       name: 'seeres',
-      icon: 'img/seeres-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/seeres-xs.png',
       searchlink: 'https://seeres.com/search',
       searchname: 'q',
       color: '#414baa',
       placeholder: 'private search...'
     }, {
       name: 'quark',
-      icon: 'img/quark-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/quark-xs.png',
       searchlink: 'https://quark.sm.cn/s',
       searchname: 'q',
       color: '#6182f6',
       placeholder: '夸克搜索...'
     }, {
       name: 'taobao',
-      icon: 'img/taobao-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/taobao-xs.png',
       searchlink: 'https://s.taobao.com/search',
       searchname: 'q',
       color: '#FF5B00',
       placeholder: '淘，我喜欢...'
     }, {
       name: 'jingdong',
-      icon: 'img/jingdong-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/jingdong-xs.png',
       searchlink: 'https://search.jd.com/Search',
       searchname: 'keyword',
       color: '#F30213',
       placeholder: '多，快，好，省...'
     }, {
       name: 'bilibili',
-      icon: 'img/bilibili-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/bilibili-xs.png',
       searchlink: 'https://search.bilibili.com/all',
       searchname: 'keyword',
       color: '#e47494',
       placeholder: 'b站是一个学习网站...'
     }, {
       name: 'github',
-      icon: 'img/github-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/github-xs.png',
       searchlink: 'https://github.com/search',
       searchname: 'q',
       color: '#24292e',
       placeholder: '全球最大的开源社区...'
     }, {
       name: 'toutiao',
-      icon: 'img/toutiao-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/toutiao-xs.png',
       searchlink: 'https://m.toutiao.com/search',
       searchname: 'keyword',
       color: '#ed2f28',
       placeholder: '搜今日头条...'
     }, {
       name: 'weibo',
-      icon: 'img/weibo-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/weibo-xs.png',
       searchlink: 'https://s.weibo.com/weibo',
       searchname: 'q',
       color: '#e6162d',
       placeholder: '搜微博...'
     }, {
       name: 'zhihu',
-      icon: 'img/zhihu-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/zhihu-xs.png',
       searchlink: 'https://www.zhihu.com/search',
       searchname: 'q',
       color: '#1087eb',
       placeholder: '我们都是有问题的人...'
     }, {
       name: 'kuaidi',
-      icon: 'img/kuaidi-xs.png',
+      icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/kuaidi-xs.png',
       searchlink: 'https://m.kuaidi100.com/result.jsp',
       searchname: 'nu',
       color: '#317EE7',
@@ -332,12 +332,12 @@ $(function() {
     var id = e.target.id;
     for (var i = 0; i < search.data.length; i++) {
       if (id == search.data[i].name) {
-        document.getElementById("state").innerHTML = "<a href='folder://'><img style='width:300px;' src='img/" + search.data[i].name + ".png'></a>";
+        document.getElementById("state").innerHTML = "<a href='folder://'><img style='width:300px;' src='https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/" + search.data[i].name + ".png'></a>";
         $('#submitButton').css('background-color', search.data[i].color); //按钮bg
         $('#Select').css('color', search.data[i].color); //选择器
         $('#nav').css('display', 'none');
         $('#folder').css('display', 'block');
-        document.getElementById("Select").innerHTML = "<hr>书签 <img src='img/search-change.svg?v=2ae7ab8'>";
+        document.getElementById("Select").innerHTML = "<hr>书签 <img src='https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/search-change.svg?v=2ae7ab8'>";
         $("#inputText").attr("placeholder", search.data[i].placeholder);
         $("#form").attr("action", search.data[i].searchlink);
         $("#inputText").attr("name", search.data[i].searchname);
@@ -400,7 +400,7 @@ $(function() {
 // 显示/干掉壁纸
 var width = $(document).width();
 $('#bg').click(function() {
-  width < 768 ? ($('#main').css('background-image') == 'none' ? ($('#main').css('background-image', 'url(img/bg-xs.jpg)')) : ($('#main').css('background-image', 'none'))) : $('#main').css('background-image') == 'none' ? ($('#main').css('background-image', 'url(img/bg.jpg)')) : ($('#main').css('background-image', 'none'));
+  width < 768 ? ($('#main').css('background-image') == 'none' ? ($('#main').css('background-image', 'url(https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/bg-xs.jpg)')) : ($('#main').css('background-image', 'none'))) : $('#main').css('background-image') == 'none' ? ($('#main').css('background-image', 'url(https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/bg.jpg)')) : ($('#main').css('background-image', 'none'));
   var background = $('#main').css('background-image');
   storage.bg = [background];
 })
@@ -435,7 +435,7 @@ if (time < 5) {
 
 //导航、引擎选择器
 function select() {
-  $('#folder').css('display') == 'block' ? ($('#folder').css('display', 'none'), $('#nav').css('display', 'block'), document.getElementById("Select").innerHTML = "<hr>搜索引擎 <img src='img/search-change.svg?v=2ae7ab8'>") : ($('#nav').css('display', 'none'), $('#folder').css('display', 'block'), document.getElementById("Select").innerHTML = "<hr>书签 <img src='img/search-change.svg?v=2ae7ab8'>");
+  $('#folder').css('display') == 'block' ? ($('#folder').css('display', 'none'), $('#nav').css('display', 'block'), document.getElementById("Select").innerHTML = "<hr>搜索引擎 <img src='https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/search-change.svg?v=2ae7ab8'>") : ($('#nav').css('display', 'none'), $('#folder').css('display', 'block'), document.getElementById("Select").innerHTML = "<hr>书签 <img src='https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/search-change.svg?v=2ae7ab8'>");
 }
 
 // 天气插件
