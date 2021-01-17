@@ -96,7 +96,7 @@ $(function() {
       icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/headline.png',
     }, {
       name: 'Emm',
-      link: 'https://pan.jiebian.workers.dev/',
+      link: 'https://pan.jiebian.tk/',
       box_shadow: '#085dfe',
       icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/pan.ico',
     }, {
