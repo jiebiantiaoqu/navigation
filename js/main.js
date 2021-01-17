@@ -146,12 +146,12 @@ $(function() {
       icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/ip.ico',
     }, {
       name: '反向代理',
-      link: 'https://dl.jiebian.workers.dev/',
+      link: 'https://dl.damahuo.workers.dev/',
       box_shadow: '#7C5DC7',
       icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/tubiao.png',
     }, {
       name: 'GitHub下载',
-      link: 'https://github.jiebian.workers.dev/',
+      link: 'https://github.damahuo.workers.dev/',
       box_shadow: '#7C5DC7',
       icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/tubiao.png',
     }, {
