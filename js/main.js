@@ -126,7 +126,7 @@ $(function() {
       icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/qqjd.png',
     }, {
       name: '懒得勤快',
-      link: 'https://ldqk.org/',
+      link: 'https://masuit.com/',
       box_shadow: '#F2584A',
       icon: 'https://cdn.jsdelivr.net/gh/jiebiantiaoqu/navigation@main/img/masuit.ico',
     }, {
